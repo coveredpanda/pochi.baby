@@ -12,6 +12,9 @@ google_analytics_id:
 # HTML Title
 title: "Pochi's Links"
 
+# Avatar image path
+avatar: "./images/profile.jpeg"
+
 # Name section text
 name: "PochiRaccoon"
 

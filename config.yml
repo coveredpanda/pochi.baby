@@ -1,1 +1,42 @@
+# Site Configuration
 
+# Theme, mapped to the directory: ./theme/xxxx
+theme: default
+
+# HTML Language setting
+lang: "en"
+
+# Google Analytics tracking id
+google_analytics_id:
+
+# HTML Title
+title: "Pochi's Links"
+
+# Name section text
+name: "PochiRaccoon"
+
+# Tagline section text
+tagline: >-
+    I am Pochi!
+
+# List of social media links
+# icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
+# title: The url title
+# url: The URL of the social media link
+# alt: Alternative text for accessibility
+# target: _blank opens in a new tab, _self opens in the same frame
+socials:
+  - social:
+      icon: "fa-brands fa-x-twitter"
+      url: "https://twitter.com/Pochi_Raccoon"
+      title: "My X Profile"
+      alt: "My X Profile"
+      target: "_self"
+
+# Footer text
+footer: >-
+    ""
+
+# Footer copyright message
+copyright: >
+    © 2025 PochiRaccoon
